@@ -1,0 +1,1 @@
+INSERT INTO contato.contatos(NOME,EMAIL) VALUES ('Natanael Huochyton de Aguiar','natanaelhaguiar@gmail.com')
